@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @spaceh3ad
 - 👀 I’m interested in space tech, blockchain and datascience
-- 🌱 I’m currently learning ML
+- 🌱 I’m currently learning Blockchain Development
 - 💞️ I’m looking to collaborate on smartcontracts
 - 📫 How to reach me -> jan.kwiatkowsky@protonmail.com
 
